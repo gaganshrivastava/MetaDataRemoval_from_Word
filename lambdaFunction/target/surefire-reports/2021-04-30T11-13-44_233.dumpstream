@@ -1,0 +1,4 @@
+# Created at 2021-04-30T11:13:44.956
+Boot Manifest-JAR contains absolute paths in classpath 'G:\Tutorials Notes\Java\NewWorkSpace_HP\lambdaFunction\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
